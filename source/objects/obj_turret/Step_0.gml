@@ -13,8 +13,8 @@ audio_play_sound(snd_gun, 10, false);
    instance_create_layer(x+(sprite_width)*cos(image_angle*pi/180),y-1-(sprite_height)*sin(image_angle*pi/180),0,obj_boom)
     with room_control
     {
-    clip_width = 0.95*clip_width
-    clip_height = 0.95*clip_height
+    clip_width = 0.9*clip_width
+    clip_height = 0.9*clip_height
     clip_surface = -1;
     }
 }

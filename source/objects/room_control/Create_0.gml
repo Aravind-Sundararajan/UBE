@@ -6,8 +6,8 @@ surf_black = -1;
 clip_x = 0;
 clip_y = 0;
 clip_r = 60;
-clip_width = 3000;
-clip_height= 3000;
+clip_width = 300;
+clip_height= 300;
  val = 1;
  global.val = 1;
  
